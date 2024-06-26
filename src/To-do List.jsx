@@ -60,7 +60,7 @@ function ToDo() {
         <h1 className="text-4xl font-bold text-center mb-6">To-Do List</h1>
         <div className="flex mb-4">
           <input
-            className="flex-1 p-2 border border-gray-700 bg-gray-900 text-white rounded-l"
+            className="flex-1 p-2 border border-gray-600 bg-gray-900 text-white rounded-l"
             type="text"
             placeholder="Enter task"
             value={newTask}
